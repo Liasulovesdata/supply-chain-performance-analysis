@@ -239,5 +239,5 @@ It demonstrates practical experience with **Excel, MySQL, Power BI, and DAX**, w
 
 **Project Type:** Data Analytics Portfolio Project\
 **Focus:** Supply Chain, Sales, Customers, Products & Logistics\
-**Tools:** Microsoft Excel, MySQL, Power BI & DAX
+**Tools:** Microsoft Excel, MySQL, Power BI & DAX\
 **Dataset Source:** DataCo Supply Chain Dataset — Kaggle
